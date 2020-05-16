@@ -1,3 +1,4 @@
-<?php
-echo "<a href=/"path/variable.php/">Variable</a>";
-echo "<a href=/"path/phpwithhtml.php/">Variable</a>";
+<h1>Table Of Content</h1>
+
+<a href="variable.php">Variable</a> <br>
+<a href="phpwithhtml.php">Php With Html</a>
